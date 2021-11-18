@@ -8,7 +8,7 @@ require (
 	github.com/hashicorp/terraform-plugin-go v0.4.0
 	github.com/juicedata/juicefs v0.17.1
 	github.com/pkg/errors v0.9.1
-	github.com/toowoxx/go-lib-userspace-common v0.7.1
+	github.com/toowoxx/go-lib-userspace-common v0.8.0
 )
 
 require (
@@ -78,6 +78,7 @@ require (
 	github.com/vbauerster/mpb/v7 v7.0.3 // indirect
 	github.com/viki-org/dnscache v0.0.0-20130720023526-c70c1f23c5d8 // indirect
 	github.com/vmihailenco/msgpack v4.0.4+incompatible // indirect
+	gitlab.com/xdevs23/go-collections v0.2.0 // indirect
 	go.opentelemetry.io/otel v0.14.0 // indirect
 	go.uber.org/atomic v1.7.0 // indirect
 	go.uber.org/multierr v1.7.0 // indirect
